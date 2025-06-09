@@ -1,12 +1,12 @@
 [submodule "opencv"]
 	path = opencv
-	url = https://github.com/opencv/opencv.git
+	url = git@github.com:Goldfish9901-2/opencv.git
 [submodule "opencv_contrib"]
 	path = opencv_contrib
-	url = https://github.com/opencv/opencv_contrib.git
+	url = git@github.com:Goldfish9901-2/opencv_contrib.git
 [submodule "multibuild"]
 	path = multibuild
-	url = https://github.com/multi-build/multibuild.git
+	url = git@github.com:Goldfish9901-2/multibuild.git
 [submodule "opencv_extra"]
 	path = opencv_extra
-	url = https://github.com/opencv/opencv_extra.git
+	url = git@github.com:Goldfish9901-2/opencv_extra.git
